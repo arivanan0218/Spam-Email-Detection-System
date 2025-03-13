@@ -1,11 +1,12 @@
 # Spam Email Classifier
 
-This project is a **Spam Email Classifier** built using Python and machine learning techniques. It uses the **Multinomial Naive Bayes** algorithm and **CountVectorizer** for text processing. The model is integrated with a **Flask web application** to provide a user interface for predictions.
+This project is a **Spam Email Classifier** built using Python, **Natural Language Processing (NLP)** techniques, and machine learning. It uses the **Multinomial Naive Bayes** algorithm and **CountVectorizer** for text processing. The model is integrated with a **Flask web application** to provide a user interface for predictions.
 
 ---
 
 ## Features
 - Email text preprocessing using **NLTK** (Stemming, Tokenization, etc.)
+- Advanced **NLP techniques** for text cleaning and transformation
 - Bag of Words (BoW) model created using **CountVectorizer**
 - Spam and Ham email classification using **Multinomial Naive Bayes**
 - Flask web application for user-friendly predictions
@@ -98,5 +99,5 @@ If you'd like to contribute to this project, please fork the repository and subm
 ---
 
 ## Contact
-For questions or support, please contact Arivanan Vamathevan at vamathevanarivanan@gmail.com.
+For questions or support, please contact Arivanan V at vamathevanarivanan@gmail.com.
 
